@@ -1,2 +1,33 @@
+/* Basic page styling */
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  background-color: #f5f7fa;
+  color: #333;
+  text-align: center;
+  padding: 40px;
+}
 
-/* Your CSS Code here. */
+/* Heading styles */
+h1 {
+  color: #007bff;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #17a2b8;
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+/* Paragraph styling */
+p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
